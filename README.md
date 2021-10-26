@@ -1,24 +1,15 @@
 # VueJs3-CourseWeb
 
-## Project setup
-```
-npm install
-```
+Cette application web, est basée sur Vue.js 3 permettant de consommer des APIs REST, d'afficher et de modifier des données à l'aide d'Axios et Vue Router.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Package à installer:
 
-### Lints and fixes files
-```
-npm run lint
-```
+npm install bootstrap@4.6.0
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm install vue-router@4
+
+npm install axios
+
+
+URL: http://localhost:8081/

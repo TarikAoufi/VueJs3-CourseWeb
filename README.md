@@ -4,7 +4,7 @@ Cette application web, est basée sur Vue.js 3 permettant de consommer des APIs 
 
 
 
-  Package à installer:
+  Package à installer: 
 
   npm install bootstrap@4.6.0
 
